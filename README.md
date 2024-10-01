@@ -3,6 +3,11 @@
 
 This project consists of the simulation of a 2D truss structure using MATLAB. The code calculates the displacements of the structure's nodes under applied point forces and visualizes both the deformed and undeformed structures.
 
+Bridge model:
+
+![bridge-model](https://github.com/user-attachments/assets/9763c7f5-ac2f-41ad-b67e-b014519fa503)
+
+
 ## Contents
 
 1. `SolverBeam2D.m`: Main script that solves the system of equations for a 2D truss structure.
